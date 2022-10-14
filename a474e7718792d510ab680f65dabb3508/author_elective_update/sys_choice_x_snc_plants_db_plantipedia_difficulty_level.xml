@@ -6,11 +6,15 @@
             <sys_class_name>sys_choice_set</sys_class_name>
             <sys_created_by>MGOPW</sys_created_by>
             <sys_created_on>2022-10-03 19:52:40</sys_created_on>
+            <sys_id>a85456c5872611909145eb173cbb35a2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
             <sys_name>difficulty_level</sys_name>
             <sys_package display_value="Mushnik's Plants" source="x_snc_plants_db">a474e7718792d510ab680f65dabb3508</sys_package>
             <sys_policy/>
             <sys_scope display_value="Mushnik's Plants">a474e7718792d510ab680f65dabb3508</sys_scope>
             <sys_update_name>sys_choice_x_snc_plants_db_plantipedia_difficulty_level</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-10-13 11:53:08</sys_updated_on>
         </sys_choice_set>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
@@ -26,6 +30,10 @@
             <sys_created_on>2022-10-03 19:52:40</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
+            <sys_id>245456c5872611909145eb173cbb35d5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-10-13 11:53:08</sys_updated_on>
             <value>beginner</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -42,6 +50,10 @@
             <sys_created_on>2022-10-03 19:52:40</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
+            <sys_id>e05456c5872611909145eb173cbb35d6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-10-13 11:53:08</sys_updated_on>
             <value>advanced</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -58,6 +70,10 @@
             <sys_created_on>2022-10-03 19:52:40</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
+            <sys_id>a05456c5872611909145eb173cbb35d7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-10-13 11:53:08</sys_updated_on>
             <value>expert</value>
         </sys_choice>
     </sys_choice>
